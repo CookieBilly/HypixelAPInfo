@@ -1,10 +1,7 @@
 import requests
 import datetime
-
-key = "a123e0a3-4246-46db-a5e5-c726a59891e4"
-
 while True:
-    #key = input("Please enter your API key: ")
+    key = input("Please enter your API key: ")
     playerName = input("Which player would you like to look at: ")
     if playerName == 'stop':
         sure = input("Are you sure you want to close the program [Y/N]")
