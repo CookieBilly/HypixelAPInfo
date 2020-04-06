@@ -5,7 +5,7 @@ Just a bit of code that use the hypixel API to get player and other info
 
 One of my first times using GitHub and new to coding!
 
-__Repo Info
+__Repo Info__
 
 This repo will consist of projects to do with extracting data from api.hypixel.net
 
