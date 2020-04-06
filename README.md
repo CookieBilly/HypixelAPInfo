@@ -10,6 +10,7 @@ __Repo Info__
 This repo will consist of projects to do with extracting data from api.hypixel.net
 There will be thing that are just mess around testing and there will also be serious projects
 I do not intend to sell any code or software in this repository which does not mean you can copy the code unless said by the repo owner, Karnaugh_Map
+The code will also not be the neatest, most proffesional, or efficient code you will see. Feel free to tell me if you think something could be better, I'm always up for critisizm!
 
 
 __Issues__
