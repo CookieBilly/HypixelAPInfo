@@ -8,9 +8,7 @@ One of my first times using GitHub and new to coding!
 __Repo Info__
 
 This repo will consist of projects to do with extracting data from api.hypixel.net
-
 There will be thing that are just mess around testing and there will also be serious projects
-
 I do not intend to sell any code or software in this repository which does not mean you can copy the code unless said by the repo owner, Karnaugh_Map
 
 
